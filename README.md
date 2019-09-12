@@ -1,9 +1,9 @@
 # spring-mongo
 
-# mongo template简单API
+# mongo template API
 
-mongoTemplate简单API
-不足之处欢迎留言
+mongoTemplate API
+
 # 1、介绍
 ​​​​​​monTemplate基于​spring-data-mongo支持，springboot项目中引入核心依赖
 
